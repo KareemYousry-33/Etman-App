@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "691068365729",
+    "project_id": "etman-66b98",
+    "storage_bucket": "etman-66b98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691068365729:android:6016575a7e19f2d916b9e0",
+        "android_client_info": {
+          "package_name": "com.example.etman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691068365729-u2jc9g68g71qb8m997cr0tp5gfa6u5eg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIoAZ3N25EgNo-H6y8QrObdvBMXEOogc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691068365729-u2jc9g68g71qb8m997cr0tp5gfa6u5eg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
